@@ -47,9 +47,9 @@ Busco sempre otimizar processos e garantir a robustez das soluções. Atualmente
 
 ## Projetos em destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitor3211&repo=chat-api&theme=nightowl&show_owner=true" />
-</p>
+<a href="https://github.com/vitor3211/chat-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitor3211&repo=chat-api&theme=nightowl&show_owner=true" />
+</a>
 
 
 
