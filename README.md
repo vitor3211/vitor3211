@@ -2,7 +2,9 @@
 
 Olá! Sou Vitor, desenvolvedor focado na construção de sistemas robustos e escaláveis. Minha paixão é o Backend, onde transformo regras de negócio em APIs eficientes e infraestruturas resilientes.
 
-# Tech Stack
+Busco sempre otimizar processos e garantir a robustez das soluções. Atualmente, foco no desenvolvimento de sistemas distribuídos e na integração de ferramentas que garantem alta disponibilidade e performance no ecossistema Java.
+
+---
 
 ###  Linguagens 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
