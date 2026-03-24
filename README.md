@@ -2,7 +2,7 @@
 
 Olá! Sou Vitor, desenvolvedor focado na construção de sistemas robustos e escaláveis. Minha paixão é o Backend, onde transformo regras de negócio em APIs eficientes e infraestruturas resilientes.
 
-# 💻 Tech Stack:
+# Tech Stack
 
 ###  Linguagens 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -42,14 +42,20 @@ Olá! Sou Vitor, desenvolvedor focado na construção de sistemas robustos e esc
 
 
 ---
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor3211&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor3211&layout=compact&theme=nightowl&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor3211&theme=nightowl" />
-</p>
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vitor3211&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
+  <br />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor3211&layout=compact&theme=nightowl&hide_border=false" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitor3211&theme=nightowl" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
