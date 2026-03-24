@@ -20,7 +20,7 @@ Busco sempre otimizar processos e garantir a robustez das soluções. Atualmente
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
-### Arquitetura & Ferramentas Adicionais
+### Infraestrutura & Integração de Sistemas
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
@@ -43,7 +43,18 @@ Busco sempre otimizar processos e garantir a robustez das soluções. Atualmente
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 
+
+
+## Projetos em destaque
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitor3211&repo=chat-api&theme=nightowl&show_owner=true" />
+</p>
+
+
+
 ---
+
 <div align="center">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vitor3211&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
   <br />
