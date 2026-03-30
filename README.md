@@ -51,25 +51,6 @@ Busco sempre otimizar processos e garantir a robustez das soluções. Atualmente
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitor3211&repo=chat-api&theme=nightowl&show_owner=true" />
 </a>
 
-
-
----
-
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vitor3211&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-  <br />
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor3211&layout=compact&theme=nightowl&hide_border=false" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitor3211&theme=nightowl" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 <p align="center">
