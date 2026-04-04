@@ -42,15 +42,6 @@ Busco sempre otimizar processos e garantir a robustez das soluções. Atualmente
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-
-
-
-## Projetos em destaque
-
-<a href="https://github.com/vitor3211/chat-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitor3211&repo=chat-api&theme=nightowl&show_owner=true" />
-</a>
-
 ---
 
 <p align="center">
